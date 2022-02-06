@@ -14,4 +14,4 @@ An archive full of Epic Games Launcher installers.
 
 
 # Other Archives:
-<img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
+<img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
