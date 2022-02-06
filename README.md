@@ -33,7 +33,7 @@ An archive full of Epic Games Launcher installers.
 | 3.0.2-3454671 | [EpicGamesLauncherInstaller-3.0.2-3454671.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-3.0.2-3454671.msi)|
 | 3.1.0-3476863 | [EpicGamesLauncherInstaller-3.1.0-3476863.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-3.1.0-3476863.msi)|
 | 4.1.0-3506806 | [EpicGamesLauncherInstaller-4.1.0-3506806.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-4.1.0-3506806.msi)|
-| 5.0.0-3535902 | [EpicGamesLauncherInstaller-5.0.0-3535902.msi]https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-5.0.0-3535902.msi)|
+| 5.0.0-3535902 | [EpicGamesLauncherInstaller-5.0.0-3535902.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-5.0.0-3535902.msi)|
 | 6.0.0-3548617 | [EpicGamesLauncherInstaller-6.0.0-3548617.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-6.0.0-3548617.msi)|
 | 6.0.1-3550956 | [EpicGamesLauncherInstaller-6.0.1-3550956.msi](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-6.0.1-3550956.msi)|
 
