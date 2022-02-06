@@ -13,5 +13,5 @@ An archive full of Epic Games Launcher installers.
 | 2.0.1-2467307 | [Download](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.1-2467307.msi)|
 
 
-# Other Archives:
+# Related Archives:
 <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
