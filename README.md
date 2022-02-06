@@ -8,7 +8,7 @@ An archive full of Epic Games Launcher installers.
 
 # Archive
 
-| Build | Download | 
+| Build | Link | 
 | :---: | :---:  
 | 2.0.1-2467307 | [Download](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.1-2467307.msi)|
 
