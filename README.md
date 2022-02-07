@@ -10,7 +10,7 @@ An archive full of Epic Games Launcher installers.
 
 | Epic Games | Build | Link |
 | :---: | :---: | --- | 
-| <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> | 2.0.1 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.1-2467307.msi)|
+| <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Epic Games | 2.0.1 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.1-2467307.msi)|
 
 # My Other Archives:
 <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
