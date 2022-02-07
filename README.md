@@ -81,5 +81,7 @@ An archive full of Epic Games Launcher installers.
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 7.14.2 | [Download Here](https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Win32/EpicInstaller-7.14.2.msi?launcherfilename=EpicInstaller-7.14.2-Crunnie.msi)|
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 7.15.0 | [Download Here](https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Win32/EpicInstaller-7.15.0.msi?launcherfilename=EpicInstaller-7.15.0-Crunnie.msi)|
 
+# Info:
+If those links ever stop working, I've uploaded some to [Google Drive](https://drive.google.com/drive/folders/1_TsIhx0bHxSkDV_2vfpsgjuk6IyATK4S?usp=sharing).
 # My Other Archives:
 <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
