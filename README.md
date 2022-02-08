@@ -12,6 +12,7 @@ An archive full of Epic Games Launcher installers.
 
 | Epic Games | Build | Link |
 | :---: | :---: | --- | 
+| <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 1.11.2 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-1.11.2-2427086.msi)|
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 2.0.0 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.0-2465596.msi)|
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 2.0.1 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.0.1-2467307.msi)|
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 2.9.1 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-2.9.1-2866696.msi)|
