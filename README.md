@@ -8,8 +8,6 @@ An archive full of Epic Games Launcher installers.
 
 # Archive
 
-# Archive
-
 | Epic Games | Build | Link |
 | :---: | :---: | --- | 
 | <img src="https://cdn.discordapp.com/attachments/751304558453719176/939893426118348820/122-1221185_epic-games-logo-png-sign.png" alt="Epic Games Logo" width="10" height="12"> Launcher | 1.11.2 | [Download Here](https://download.epicgames.com/Builds/UnrealEngineLauncher/Installers/EpicGamesLauncherInstaller-1.11.2-2427086.msi)|
