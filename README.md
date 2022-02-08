@@ -91,5 +91,9 @@ An archive full of Epic Games Launcher installers.
 
 # Info:
 If those links ever stop working, I've uploaded some to [Google Drive](https://drive.google.com/drive/folders/1_TsIhx0bHxSkDV_2vfpsgjuk6IyATK4S?usp=sharing).
+
+# Credit:
+NOTPIES, for providing some EGL Builds.
+
 # My Other Archives:
 <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="10" height="12"> [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
